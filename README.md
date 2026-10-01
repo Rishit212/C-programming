@@ -9,3 +9,6 @@ Learning C from scratch. I add programs here as I learn each topic.
 ## Loops
 - number printer with for.c: prints all numbers from 0 to n, then prints the odd and even numbers separately from  0 to n, using for loop.
 - number printer with while.c" prints all numbers from 0 to n, then prints the odd and even numbers seperately from 0 to n, using while loop.
+
+## Header files
+=string.h: compares, joins, copies and measure strings using string.h
